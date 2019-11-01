@@ -1,0 +1,23 @@
+.body {
+  background-image: url("bck.png");
+}
+.card-front {
+  background-color: #ff5858;
+  padding: 1rem;
+  margin: 4rem 30%;
+  height: 35rem;
+}
+
+.card-front h1,
+h2,
+h3 {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.btn {
+  font-family: "Courier New", Courier, monospace;
+  position: absolute;
+  bottom: 6rem;
+  right: 30rem;
+}
