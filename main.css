@@ -4,8 +4,8 @@
 .card-front {
   background-color: #ff5858;
   padding: 1rem;
-  margin: 4rem 30%;
-  height: 35rem;
+  margin: 4rem auto;
+  height: 100%;
 }
 
 .card-front h1,
@@ -17,7 +17,7 @@ h3 {
 
 .btn {
   font-family: "Courier New", Courier, monospace;
-  position: absolute;
-  bottom: 6rem;
-  right: 30rem;
+  position: relative;
+  bottom: 0;
+  right: 0;
 }
